@@ -1,29 +1,22 @@
 _OakText6::
-	text "What did you say"
-	line "your name was?"
+	text "Now, what did you"
+	line "say your name was?"
 	prompt
 
 _OakText7::
-	text "<PLAYER>, I've"
-	line "seen that you"
-	cont "expressed interest"
-	cont "in helping me"
-	cont "with my research."
+	text "<PLAYER>, are you"
+	line "ready?"
 
-	para "My assistants, "
-	line "KRIS and ETHAN"
-	cont "will be giving"
-	cont "you your very"
-	cont "first #MON."
+	para "Your very own"
+	line "#MON story is"
+	cont "about to unfold."
 
-	para "You can meet them"
-	line "down by the gate"
-	cont "that leads to the"
-	cont "Johto Elite Four."
+	para "You'll face fun"
+	line "times and tough"
+	cont "challenges."
 
-	para "Come on, <PLAYER>"
-	line "a world of dreams"
-	cont "and adventures"
+	para "A world of dreams"
+	line "and adventures"
 
 	para "with #MON"
 	line "awaits! Let's go!"
